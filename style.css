@@ -1,0 +1,43 @@
+.heading_div1
+{
+    background: whitesmoke;
+    color: black;
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+    float: none;
+}
+
+.heading_div2
+{
+  font-size: 18px;
+}
+
+.result_para_tag{
+  box-shadow: 5px 3px 3px yellow;
+  }
+  
+  .copy_right_footer
+  {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: grey;
+    color: black;
+    text-align: center;
+    height: 30px;
+    margin-top: 15px;
+    font-size: 20;
+  }
+  
+  canvas
+  {
+    border: 5px dotted blue;
+    margin-top: 100px;
+    margin-bottom: 0px;
+  }
+  
+  body
+  {
+    padding-bottom: 40px;
+  }
